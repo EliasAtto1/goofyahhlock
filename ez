@@ -1244,7 +1244,7 @@ x:NewButton("Activate Goofy Ahh Lock 2", "Q to Aimlock", function()
 local CC = game:GetService"Workspace".CurrentCamera
     local Plr
     local enabled = falseWD
-    local accomidationfactor = 0.129145
+    local accomidationfactor = 0.14284
     local mouse = game.Players.LocalPlayer:GetMouse()
     local placemarker = Instance.new("Part", game.Workspace)
  
