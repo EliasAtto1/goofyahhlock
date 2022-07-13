@@ -2,7 +2,7 @@ local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKh
 NotifyLib.prompt('Your Whitelisted Dubs', 'W', 2)
 NotifyLib.prompt('Goofy Ahh lock Private😱', 'W', 2)
 NotifyLib.prompt('Goofy Ahh Lock', 'Son Them', 2)
-NotifyLib.prompt('Goofy Ahh Lock', 'EIias#6213', 2)
+NotifyLib.prompt('Goofy Ahh Lock', 'EIias#6231', 2)
 NotifyLib.prompt('Goofy Ahh Lock - Q To Lock When Enabled', 'Loading...', 2)
 NotifyLib.prompt('Loading...', 'Thanks For Waiting', 2)
 NotifyLib.prompt('Loading...', 'Thanks For Waiting', 2)
